@@ -20,3 +20,4 @@ with open('D:\\data\\python\\crawler\\csvtest.csv','a',newline='',encoding="utf-
                 # 写入csv文件
                 writer.writerow(L)
                 print(name,time,star)
+            
